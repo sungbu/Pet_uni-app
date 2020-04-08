@@ -1,0 +1,46 @@
+.all.data-v-6d0a41ff {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 160rpx 40rpx;
+}
+.all .header .h1.data-v-6d0a41ff {
+  font-size: 50rpx;
+  display: block;
+  font-weight: 400;
+  letter-spacing: 8rpx;
+  color: #333333;
+  margin-bottom: 10rpx;
+}
+.all .header text.data-v-6d0a41ff {
+  color: #555555;
+  font-size: 30rpx;
+  letter-spacing: 3rpx;
+}
+.all .content input.data-v-6d0a41ff {
+  padding: 40rpx 0;
+  border-bottom: 0.5rpx solid #999999;
+  color: #808080;
+  text-indent: 1em;
+}
+.all .content .userName.data-v-6d0a41ff {
+  display: inline-block;
+  width: 40%;
+}
+.all .content .email.data-v-6d0a41ff {
+  display: inline-block;
+  width: 50%;
+  margin-left: 40rpx;
+}
+.all .btn.data-v-6d0a41ff {
+  text-align: center;
+  margin: 160rpx 0;
+  padding: 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #007AFF;
+  border-radius: 40rpx;
+  color: #f4f4f4;
+  font-weight: 800;
+  letter-spacing: 10rpx;
+}
+

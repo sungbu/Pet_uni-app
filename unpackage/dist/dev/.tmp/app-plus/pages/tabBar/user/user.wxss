@@ -1,0 +1,37 @@
+.all {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 30rpx;
+  padding-top: 100rpx;
+  height: 100vh;
+}
+.all .user {
+  width: 100%;
+}
+.all .user image {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+}
+.all .user text {
+  display: inline-block;
+  height: 100rpx;
+  vertical-align: top;
+  line-height: 100rpx;
+  margin-left: 30rpx;
+  font-size: 40rpx;
+  font-weight: bold;
+}
+.all .remveBtn {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: 150rpx;
+  text-align: center;
+  background: #007AFF;
+  padding: 20rpx;
+  border-radius: 40rpx;
+  color: #f4f4f4;
+  font-weight: bold;
+  letter-spacing: 20rpx;
+}
+

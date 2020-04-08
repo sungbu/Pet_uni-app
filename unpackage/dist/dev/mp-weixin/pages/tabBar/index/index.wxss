@@ -1,0 +1,64 @@
+.all {
+  position: relative;
+}
+.all .uni-padding-wrap {
+  position: absolute;
+  width: 750rpx;
+  height: 400rpx;
+  overflow: hidden;
+}
+.all .uni-padding-wrap .swiper-item {
+  width: 95%;
+  height: 400rpx;
+  margin: 11.7rpx auto;
+}
+.all .uni-padding-wrap .swiper-item image {
+  width: 100%;
+  height: 100%;
+  border-radius: 10rpx;
+}
+.all .content {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 750rpx;
+  padding: 10rpx;
+}
+.all .content .hot-wrap {
+  padding: 0 0 20rpx 0;
+}
+.all .content .hot-wrap .hot {
+  border-bottom: 1px solid #333333;
+  padding-bottom: 5rpx;
+}
+.all .content .hot-wrap .hot text {
+  color: #333333;
+  font-size: 30rpx;
+  font-weight: 700;
+}
+.all .content .hot-wrap .bag {
+  display: inline-block;
+  width: 45%;
+  height: 50px;
+}
+.all .content .hot-wrap .bag image {
+  width: 100%;
+  height: 400rpx;
+  -webkit-box-shadow: 0rpx 5rpx 10rpx rgba(0, 0, 0, 0.2);
+          box-shadow: 0rpx 5rpx 10rpx rgba(0, 0, 0, 0.2);
+}
+.all .content .hot-wrap .small {
+  display: inline-block;
+  width: 50%;
+  height: 50px;
+}
+.all .content .hot-wrap .small image {
+  width: 50%;
+  height: 200rpx;
+  -webkit-box-shadow: 0rpx 8rpx 25rpx rgba(0, 0, 0, 0.2);
+          box-shadow: 0rpx 8rpx 25rpx rgba(0, 0, 0, 0.2);
+}
+.place {
+  background-color: #ffffff;
+  height: 400rpx;
+}
+

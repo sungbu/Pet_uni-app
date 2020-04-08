@@ -1,0 +1,110 @@
+.all.data-v-61c1dc5b {
+  position: relative;
+}
+.all .returnBefore.data-v-61c1dc5b {
+  position: absolute;
+  top: 20rpx;
+  top: var(--status-bar-height);
+  left: 20rpx;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.5);
+  width: 70rpx;
+  height: 70rpx;
+  text-align: center;
+  line-height: 70rpx;
+  font-size: 40rpx;
+  color: #f4f4f4;
+  font-weight: bold;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.all .returnBefore ._i.data-v-61c1dc5b {
+  font-size: 50rpx;
+}
+.all .banner image.data-v-61c1dc5b {
+  width: 750rpx;
+}
+.all .des.data-v-61c1dc5b {
+  padding: 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.all .des .price.data-v-61c1dc5b {
+  color: #DD524D;
+  font-size: 60rpx;
+}
+.all .des .title.data-v-61c1dc5b {
+  color: #333333;
+  font-size: 30rpx;
+  font-weight: 400;
+  margin-top: 10rpx;
+}
+.all .des .specifications.data-v-61c1dc5b {
+  margin-top: 20rpx;
+}
+.all .des .specifications text.data-v-61c1dc5b {
+  color: #555555;
+  font-size: 27rpx;
+  margin-left: 30rpx;
+}
+.all .des .specifications .place.data-v-61c1dc5b {
+  display: block;
+}
+.all .des .specifications .weight.data-v-61c1dc5b {
+  display: inline-block;
+  background: #C8C7CC;
+  color: #f4f4f4;
+  font-size: 27rpx;
+  padding: 10rpx 20rpx;
+  border-radius: 30rpx;
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+}
+.all .flooter.data-v-61c1dc5b {
+  position: fixed;
+  bottom: 0;
+  height: 100rpx;
+  width: 750rpx;
+  background-color: #FFFFFF;
+  border-top: 1px solid #999999;
+}
+.all .flooter .addCar.data-v-61c1dc5b {
+  margin-top: 10rpx;
+  margin-right: 20rpx;
+}
+.all .flooter .addCar text.data-v-61c1dc5b {
+  float: right;
+  background: #DD524D;
+  border-radius: 40rpx;
+  padding: 20rpx;
+  color: #f4f4f4;
+  font-size: 30rpx;
+}
+.all .flooter .addCar .cls.data-v-61c1dc5b {
+  float: left;
+  margin-left: 20rpx;
+  margin-top: 10rpx;
+}
+.all .flooter .addCar .cls view.data-v-61c1dc5b {
+  display: inline-block;
+  border: 1px solid #808080;
+  padding: 1rpx;
+  text-align: center;
+  font-size: 30rpx;
+  font-weight: bold;
+}
+.all .flooter .addCar .cls .rem.data-v-61c1dc5b {
+  border-bottom-left-radius: 10rpx;
+  border-top-left-radius: 10rpx;
+  width: 30rpx;
+}
+.all .flooter .addCar .cls .show.data-v-61c1dc5b {
+  width: 40rpx;
+  font-weight: 500;
+}
+.all .flooter .addCar .cls .add.data-v-61c1dc5b {
+  border-top-right-radius: 10rpx;
+  border-bottom-right-radius: 10rpx;
+  width: 30rpx;
+}
+

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#ffffff",
+  "titleNView": false,
+  "bounce": "none",
+  "usingComponents": {
+    "search": "/pages/components/search"
+  }
+}

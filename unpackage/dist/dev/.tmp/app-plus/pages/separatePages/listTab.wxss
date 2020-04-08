@@ -1,0 +1,40 @@
+.all.data-v-5fe81076 {
+  width: 750rpx;
+  padding-bottom: 20rpx;
+}
+.all .listBox.data-v-5fe81076 {
+  width: 50%;
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 20rpx;
+  vertical-align: top;
+}
+.all .listBox .content.data-v-5fe81076 {
+  background: #FFFFFF;
+  border-radius: 30rpx;
+  overflow: hidden;
+}
+.all .listBox .content image.data-v-5fe81076 {
+  width: 100%;
+}
+.all .listBox .content text.data-v-5fe81076 {
+  color: #333333;
+  display: inline-block;
+  font-size: 25rpx;
+  margin: 0 10rpx;
+}
+.all .listBox .content .des.data-v-5fe81076 {
+  height: 40rpx;
+  padding: 10rpx 0;
+}
+.all .listBox .content .des .price.data-v-5fe81076 {
+  float: left;
+  color: #DD524D;
+  font-size: 27rpx;
+}
+.all .listBox .content .des .payNum.data-v-5fe81076 {
+  float: right;
+  color: #999999;
+}
+

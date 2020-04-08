@@ -1,0 +1,1 @@
+<view class="all"><view class="user"><image src="{{userImage}}" mode="aspectFill"></image><text>未登录</text></view></view>

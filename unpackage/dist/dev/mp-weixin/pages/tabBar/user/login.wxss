@@ -1,0 +1,43 @@
+.all {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 160rpx 40rpx;
+}
+.all .title {
+  margin-bottom: 100rpx;
+}
+.all .title .h1 {
+  font-size: 50rpx;
+  display: block;
+  font-weight: 400;
+  letter-spacing: 8rpx;
+  color: #333333;
+  margin-bottom: 10rpx;
+}
+.all .title .h5 {
+  color: #555555;
+  font-size: 30rpx;
+  letter-spacing: 3rpx;
+}
+.all .title .flag {
+  color: #007AFF;
+}
+.all .form input {
+  padding: 40rpx 0;
+  border-bottom: 0.5rpx solid #999999;
+  color: #808080;
+  text-indent: 1em;
+}
+.all .form .btn {
+  text-align: center;
+  margin: 160rpx 0;
+  padding: 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #007AFF;
+  border-radius: 40rpx;
+  color: #f4f4f4;
+  font-weight: 800;
+  letter-spacing: 10rpx;
+}
+

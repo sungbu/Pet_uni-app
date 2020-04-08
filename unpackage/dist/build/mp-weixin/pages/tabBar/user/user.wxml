@@ -1,0 +1,1 @@
+<view class="all"><view data-event-opts="{{[['tap',[['navigateTo',['$event']]]]]}}" class="user" bindtap="__e"><image src="{{userImage}}" mode="aspectFill"></image><text>{{user}}</text></view><block wx:if="{{deleteBtn}}"><view data-event-opts="{{[['tap',[['deleteUser',['$event']]]]]}}" class="remveBtn" bindtap="__e">注销</view></block></view>
